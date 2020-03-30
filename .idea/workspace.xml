@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="976855bf-ea68-4abd-8e08-9e945dbca048" name="Default Changelist" comment="s">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tangram_blog/templates/tangram_blog/author_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tangram_blog/templates/tangram_blog/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tangram_blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tangram_blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tangram_blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tangram_blog/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tangram_blog/migrations/0002_auto_20200330_1238.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tangram_blog/migrations/0003_auto_20200330_1240.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tangram_blog/migrations/0004_auto_20200330_1244.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tangram_blog/migrations/0005_auto_20200330_1250.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tangram_blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tangram_blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tangram_blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tangram_blog/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZqHOv04X9dbEUg6NZNLxnm6N2l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="976855bf-ea68-4abd-8e08-9e945dbca048" name="Default Changelist" comment="" />
+      <created>1585559675649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585559675649</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1665" y="427" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585603254269">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1665" y="427" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1585603254269" />
+    <state x="1588" y="312" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585607152631">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1588" y="312" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1585607152631" />
+    <state x="1549" y="155" key="CommitChangelistDialog2" timestamp="1585607077092">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1549" y="155" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1585607077092" />
+    <state x="567" y="313" key="FileChooserDialogImpl" timestamp="1585602944961">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="567" y="313" key="FileChooserDialogImpl/0.0.2560.1080@0.0.2560.1080" timestamp="1585602944961" />
+    <state x="976" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1585599591185">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="976" y="365" key="com.intellij.ide.util.TipDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1585599591185" />
+    <state x="1704" y="350" width="607" height="536" key="find.popup" timestamp="1585563947390">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1704" y="350" width="607" height="536" key="find.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1585563947390" />
+    <state x="303" y="239" key="search.everywhere.popup" timestamp="1585563270935">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="303" y="239" key="search.everywhere.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1585563270935" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mysite/settings.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

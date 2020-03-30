@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    </head>
+    <body>
+    <div>
+       <strong><h1>Tangram blog</h1></strong>
+    </div>
+    <div>
+        <strong><h2>Blog for Tangram selection process.</h2></strong>
+    </div>
+    {% for post in posts %}
+        <div>
+            <h3>{{ author.title }}</h3>
+            <p>{{ author.text|linebreaksbr }}</p>
+        </div>
+    {% endfor %}
+    </body>
+</html>

@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    </head>
+    <body>
+    <div>
+       <strong><h1>Tangram blog</h1></strong>
+    </div>
+    <div>
+        <strong><h2>Posts</h2></strong>
+    </div>
+    {% for post in posts %}
+        <div>
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.text|linebreaksbr }}</p>
+        </div>
+    {% endfor %}
+
+    <div>
+       <strong><h1>Authors</h1></strong>
+    </div>
+    {% for post in posts %}
+        <div>
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.text|linebreaksbr }}</p>
+        </div>
+    {% endfor %}
+    {% for author in authors %}
+        <div>
+            <h3>{{ author.name }}</h3>
+            <p>{{ author.email|linebreaksbr }}</p>
+        </div>
+    {% endfor %}
+    </body>
+    </body>
+</html>
